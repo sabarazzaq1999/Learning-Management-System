@@ -1,5 +1,5 @@
 # Description:
-The goal of this file is to help the larger community settle on some best practices when it comes to contributing. This is an open-source project, so community contributions are the only way this will truly develop. Any help you give is greatly appreciated, big or small.
+The objective of this document is to establish a framework for the broader community to adopt best practices in their contributions. As an open-source endeavor, the evolution of this project hinges entirely on community involvement. Youra contributions, regardless of size, are invaluable and pivotal in shaping its growth. Every effort you make, whether significant or modest, is sincerely valued and deeply appreciated. Let's collaborate to nurture this project into its fullest potential.
 
 ## Issue Gardening:
 - When creating an issue, ensure that you have first looked through all open issues to avoid duplicates.
